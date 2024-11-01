@@ -1,0 +1,16 @@
+legend {
+  padding-top: 20px;
+  margin-top: 1em auto;
+  text-align: center;
+  font-family: "Bebas Neue", "Impact", sans-serif;
+  font-size: 50px;
+}
+
+img {
+  width: 100%;
+  height: auto;
+}
+
+fieldset {
+  border: none;
+}
